@@ -1,0 +1,4 @@
+export CLASSPATH=\
+$PWD:\
+$PWD/lib:\
+$PWD/lib/algs4.jar
